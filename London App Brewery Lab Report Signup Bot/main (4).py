@@ -28,7 +28,7 @@ class LabReport:
 
 
 if __name__ == "__main__":
-    name = "Meliksah"
-    surname = "Yorulmazlar"
-    email = "yorulk@rpi.edu"
+    name = "Apurba"
+    surname = "Roy"
+    email = "apurbaroy.285@gmail.com"
     labreport = LabReport(name=name,surname=surname,email=email)
